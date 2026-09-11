@@ -1,107 +1,100 @@
-## Hi there 👋
+👋 Hi, I'm Aghil Echresh
 
-# گزارش پژوهشی جامع درباره فعالیت‌های آنلاین عقیل عچرش
+🇮🇷 عقیل عچرش | Open Source & Technology Enthusiast
 
----
+I enjoy exploring technology, experimenting with open-source projects, and building practical tools with Python, Shell, and Termux.
 
-## مقدمه
-
-در عصر دیجیتال، حضور و فعالیت هر فرد در بستر اینترنت و فضای مجازی واجد اهمیت ویژه‌ای است. افراد با استفاده از ابزارهای متعدد دیجیتال، ردپایی متنوع در فضای مجازی به جا می‌گذارند که می‌تواند تاثیرات اجتماعی و حرفه‌ای بسزایی داشته باشد.
-
-هدف این پژوهش، عرضه تصویری مستند و شفاف از زمینه‌ها و مصادیق حضور عقیل عچرش در اینترنت است. بدین منظور، طیفی از بسترهای معروف (اجتماعی، حرفه‌ای، فنی و محتوایی) مورد بررسی قرار گرفته است.
+My GitHub is a place where I share experiments, useful scripts, automation projects, and things I'm learning along the way.
 
 ---
 
-## مفهوم ردپای دیجیتال و اهمیت آن
+🚀 About Me
 
-پیش از ورود به مصادیق فردی، درک عمیق مفهوم «ردپای دیجیتال» (Digital Footprint) اهمیت ویژه‌ای دارد. ردپای دیجیتال، اشاره به مجموعه‌ای از داده‌ها و اطلاعات است که هر فرد به صورت مستقیم یا غیرمستقیم در فضای مجازی به جای می‌گذارد.
-
-### انواع ردپای دیجیتال
-
-ردپای دیجیتال به دو دسته اصلی تقسیم می‌شود:
-
-- **ردپای دیجیتال فعال**: داده‌هایی که کاربر به صورت فعال و مستقیم وارد فضای مجازی می‌نماید، مانند انتشار پست، نظر، یا ایجاد اکانت جدید.
-- **ردپای دیجیتال غیرفعال**: داده‌هایی که بدون اطلاع کاربر، هنگام استفاده از سایت‌ها و سرویس‌های آنلاین، توسط سرویس‌دهندگان ثبت می‌شود.
-
-تأثیر ردپای دیجیتال، تنها به بعد فنی محدود نمی‌شود و حوزه‌های اجتماعی (از جمله فرصت‌های شغلی، اعتمادسازی و سمعه عمومی) را به شدت تحت تأثیر قرار می‌دهد.
+- 🔭 Exploring Python, Shell & Termux
+- 🧪 Building and experimenting with small practical projects
+- 🐧 Interested in Linux and command-line tools
+- 📱 Exploring mobile development environments with Termux
+- 🌱 Always learning and improving
+- 💡 I like turning ideas into simple, useful tools
 
 ---
 
-## بررسی هویت و اشتراک اسامی
+🛠️ Technologies & Tools
 
-در آغاز فرآیند پژوهش، ضروری است هویت دیجیتال عقیل عچرش را از نظر احتمال تشابه اسمی با سایر چهره‌ها مورد رسیدگی قرار دهیم. این اقدام برای جلوگیری از اشتباهات احتمالی و تطابق دقیق داده‌ها ضروری است.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>---
 
----
+📌 Featured Projects
 
-## بررسی فعالیت‌های عقیل عچرش در شبکه‌های اجتماعی
+🔹 insunfollow-termux
 
-### اینستاگرام
+A Termux-based project focused on automation and social-media related utilities.
 
-براساس جستجو در بستر اینستاگرام و همچنین بررسی وب‌سایت‌ها و ابزارهای دسترسی به صفحات عمومی، تا زمان نگارش این گزارش، هیچ حساب فعال و عمومی مرتبط با نام «عقیل عچرش» یا نام‌های نزدیک شناسایی نشده است.
+🔹 IPTV
 
-لازم به ذکر است که برخی اکانت‌ها یا صفحات ممکن است خصوصی باشند یا با نام‌های مستعار فعال باشند که در این صورت جستجو و بررسی مستقیم ممکن نیست.
+A Python-based project exploring IPTV-related functionality.
 
-### توییتر (اکس)
+🔹 super-aghil
 
-در حوزه توییتر، پس از بررسی اسامی مشابه و جستجوی اکانت‌های احتمالی، هیچ حساب فعال عمومی یا تأیید شده‌ای با این نام شناسایی نشده است.
+A Python project created as part of my experiments and development work.
 
-### لینکدین
+🔹 Twitter-termux
 
-با جستجو در پلتفرم لینکدین، که بستر اصلی ارائه پروفایل‌های حرفه‌ای و رزومه آنلاین است، هیچ نمایه مرتبط با این نام یا نام‌های مشابه برای عقیل عچرش وجود ندارد.
+A Shell/Termux project exploring Twitter-related command-line functionality.
 
-### تلگرام
+🔹 Termux-commands
 
-برخلاف پلتفرم‌های مذکور، حضور عمده‌ای با تقریب بالا از «عقیل عچرش» یا نام‌هایی با شباهت بسیار نزدیک مربوط به فعالیت‌های ادبی (به‌ویژه شعر) مشاهده می‌شود. این کانال‌ها اغلب با نام‌های سنتی از قبیل «حلیم عچرش» فعال هستند.
+A collection and guide for useful Termux commands, created for learning and practical use.
 
-### جمع‌بندی فعالیت در شبکه‌های اجتماعی
-
-در جدول ذیل، مروری اجمالی بر حضور یا نبود مستندات پیرامون هر پلتفرم ارائه شده است:
-
-| بستر شبکه اجتماعی | وضعیت حضور مستند و عمومی عقیل عچرش |
-|-------------------|-----------------------------------|
-| اینستاگرام        | مشاهده نشد                        |
-| توییتر (اکس)      | مشاهده نشد                        |
-| لینکدین           | مشاهده نشد                        |
-| تلگرام            | موردی با نام مشابه (حلیم عچرش)، بدون انتساب قطعی|
-| فیسبوک            | داده‌ای یافت نشد                 |
-| سایر (کلاب‌هاوس و...) | اطلاعاتی وجود ندارد            |
-
-توضیح تکمیلی اینکه عدم حضور (به معنی نبودن حساب عمومی یا دارای تولید محتوای گسترده) رادیکالاً به معنی نداشتن فعالیت نیست؛ بلکه ممکن است شخص از حساب‌های خصوصی بهره می‌برد یا اصلاً فعالیت عمومی ندارد.
+«⭐ Check out my repositories to see more experiments and projects.»
 
 ---
 
-## تولید محتوا: ویدیو، وبلاگ، صوت و مقالات
+📊 GitHub Stats
 
-### یوتیوب و آپارات
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aghil-Echresh&show_icons=true&theme=tokyonight&hide_border=true" alt="Aghil's GitHub Stats" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aghil-Echresh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>---
 
-هیچ کانال فعال و فراگیر تحت نام "عقیل عچرش" در سایت‌های اشتراک ویدئو همچون یوتیوب و آپارات یافت نشد. برخی کانال‌های با اسامی مشابه وجود دارند اما انتساب قطعی به سوژه این پژوهش مشخص نیست.
+🎯 Current Focus
 
-### سرویس‌های ایرانی اشتراک ویدیو
-
-در سرویس اشتراک ویدیوی فیلو (ifilo.net)، صفحه‌ای با نام «عقیل عچرش» ثبت شده است. براساس داده‌های پروفایل، این کاربر تنها یک ویدیو کوتاه بارگذاری کرده و فعالیت محدود دارد.
-
-در سایت Mp4.ir نیز کانال/نام کاربری "aghilechresh" مشاهده می‌شود که ظاهراً به فعالیت موسیقی (گیتار) مربوط است. این اطلاعات نیاز به تأیید بیشتر دارد.
-
-### پادکست و صوت
-
-در جستجوی سامانه‌های توزیع پادکست فارسی و بین‌المللی، نشانی از پادکست اختصاصی یا همکاری عقیل عچرش به استقامت یافت نشد.
-
-### وبلاگ و مقالات
-
-هیچ وبلاگ یا سامانه نشر مستقل (مانند ویرگول، مدیوم، بلاگفا، بیان و...) به نام عقیل عچرش یا معادل انگلیسی آن (aghilechresh) یافت نشد.
-
-بطور اجمالی، حضور یا تولید محتوای متنی (به صورت مقاله یا وبلاگ‌نویسی) اختصاص‌یافته به نام عقیل عچرش در بستر شبکه‌های محتوایی معروف شناسایی نشده است.
+Python        ███████████████░░░  Learning & Building
+Shell         ████████████████░░  Experimenting
+Termux        █████████████████░  Exploring
+Linux         ██████████████░░░░  Learning
+Open Source   █████████████░░░░░  Growing
 
 ---
 
-## پروژه‌های دیجیتال، متن‌باز و برنامه‌نویسی
+🌱 Learning & Growing
 
-### گیت‌هاب (GitHub)
+I'm continuously experimenting with new ideas and improving my skills through real projects.
 
-**گیت‌هاب** به‌عنوان اصلی‌ترین پلتفرم جهانی برای میزبانی کد، دارای دو یوزرنیم مستقل به نام‌های aghilechresh و Aghil-Echresh است:
+«Learn → Build → Experiment → Improve 🚀»
 
-- **پروفایل aghilechresh** (https://github.com/aghilechresh) با توضیح مختصر «کوچه پشتی» و لینک Linktree ثبت شده و مجموعاً ۲ فالوئر و ۸ فالوئینگ دارد.
+---
 
+🤝 Let's Connect
+
+If you are interested in technology, open source, Python, Linux, or Termux, feel free to explore my repositories and connect with me.
+
+<p align="center">
+  <a href="https://github.com/Aghil-Echresh">
+    <img src="https://img.shields.io/badge/GitHub-Aghil--Echresh-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>---
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
 - **پروفایل Aghil-Echresh** (https://github.com/Aghil-Echresh) دارای ۰ فالوئر و ۲ فالوئینگ، با توضیح شغل: سوپر مارکت.
 
 جمع‌بندی اینکه حضور عقیل عچرش در گیت‌هاب، به صورت محدود و غیرتخصصی در حوزه پروژه‌های فنی دیده می‌شود. اکثر مخزن‌ها (repositories) جنبه تمرینی یا آزمایشی دارند.

@@ -1,25 +1,26 @@
 # 👋 سلام، من عقیل عچرش هستم | Aghil Echresh
 
-**AI & Web Developer • Open Source Enthusiast • Builder**
+**AI & Web Developer • Builder • Open Source Enthusiast**
 
-من به ساخت ابزارهای کاربردی، هوش مصنوعی، توسعه وب و اتوماسیون علاقه‌مندم.  
-در GitHub پروژه‌ها، آزمایش‌ها و ایده‌هایی را منتشر می‌کنم که در مسیر یادگیری و ساخت محصولات واقعی انجام می‌دهم.
+من روی ساخت ابزارهای کاربردی با **هوش مصنوعی، وب، اتوماسیون و سرویس‌های ابری** کار می‌کنم.  
+تمرکزم این است که ایده‌ها را از یک نمونه اولیه به یک پروژه قابل استفاده تبدیل کنم.
 
 ---
 
 ## 🚀 درباره من
 
-- 🤖 علاقه‌مند به **هوش مصنوعی و ابزارهای AI**
-- 🌐 توسعه **وب‌اپلیکیشن‌ها و ابزارهای کاربردی**
-- 🧩 کار با **JavaScript / Node.js / Python**
-- 🗄️ تجربه کار با **Supabase و PostgreSQL**
-- 🔧 استفاده از **GitHub و GitHub Actions** برای توسعه و استقرار
-- ☁️ تجربه کار با سرویس‌های ابری و استقرار پروژه‌ها
-- 🧪 علاقه‌مند به آزمایش ایده‌های جدید و تبدیل آن‌ها به پروژه‌های واقعی
+- 🤖 ساخت ابزارها و پروژه‌های **AI و چت‌بات**
+- 🌐 توسعه **Web Apps** و رابط‌های کاربردی
+- 🧩 **JavaScript / Node.js / Python**
+- 🗄️ **Supabase / PostgreSQL / Storage / Auth**
+- ⚙️ **GitHub Actions / CI/CD / Automation**
+- ☁️ استقرار و اتصال پروژه‌ها به سرویس‌های ابری
+- 📱 تجربه در پروژه‌های وب و موبایل
+- 🧪 علاقه‌مند به تست ایده‌های جدید و تبدیل آن‌ها به محصول واقعی
 
 ---
 
-## 🛠️ فناوری‌ها و ابزارها
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -29,23 +30,23 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-## 📌 پروژه‌ها
+## ⭐ پروژه‌های شاخص
 
-در پروفایل من پروژه‌هایی در زمینه‌های مختلف دیده می‌شود، از جمله:
+### 🤖 [AI Melli](https://github.com/Aghil-Echresh/ai_melli)
+ابزاری مبتنی بر **GitHub Actions** برای تولید متن و تصویر با هوش مصنوعی، همراه با workflowهای قابل اجرا و خروجی ذخیره‌شده در GitHub.
 
-- 🤖 پروژه‌های مرتبط با **AI و چت‌بات**
-- 🌐 **وب‌اپلیکیشن‌ها و ابزارهای کاربردی**
-- 📱 پروژه‌های مرتبط با **توسعه موبایل و وب**
-- 🗄️ پروژه‌های مبتنی بر **Supabase**
-- ⚙️ **اتوماسیون و CI/CD**
-- 🧪 پروژه‌های آزمایشی برای یادگیری و توسعه ایده‌های جدید
+### 🧾 [دفتر حساب آنلاین سوپرمارکت کمیل](https://github.com/Aghil-Echresh/apk3)
+پنل فارسی و RTL برای مدیریت مشتریان، واریز و برداشت، مانده حساب و رسید با **Supabase Auth + PostgreSQL + Storage**.
 
-برای دیدن پروژه‌های فعلی، به بخش Repositories سر بزنید.
+### 💬 [WhatsApp ChatGPT Bot](https://github.com/Aghil-Echresh/whatsapp-chatgpt-bot)
+پروژه اتصال **WhatsApp** به سرویس‌های هوش مصنوعی با تمرکز روی ساخت یک ربات مکالمه کاربردی.
+
+### 🛒 [Supermarket Komil](https://github.com/Aghil-Echresh/supermarket-komil)
+پروژه وب مرتبط با **سوپرمارکت کمیل** و آزمایش قابلیت‌های Node.js / Express / SQLite.
 
 ---
 
@@ -53,8 +54,7 @@
 
 **AI → Web → Automation → Cloud → Real Projects**
 
-هدفم این است که فقط کد تولید نکنم؛  
-ایده را به یک ابزار قابل استفاده تبدیل کنم، آن را آزمایش کنم و مرحله‌به‌مرحله بهترش کنم.
+من بیشتر از اینکه فقط کد بنویسم، دنبال اینم که یک ایده واقعاً **اجرا، تست و قابل استفاده** بشه.
 
 ---
 
@@ -70,24 +70,18 @@
 
 ---
 
-## 🌱 مسیر من
+## 🌐 ارتباط
 
-**Learn → Build → Test → Improve → Repeat 🔁**
-
-هر پروژه برای من یک قدم تازه است؛  
-گاهی یک ایده کوچک، تبدیل می‌شود به چیزی که واقعاً بتوان از آن استفاده کرد.
+- 🐙 GitHub: [@Aghil-Echresh](https://github.com/Aghil-Echresh)
+- 🌍 Web: [aghil-echresh.github.io/paiam](https://aghil-echresh.github.io/paiam/)
 
 ---
 
-## 🤝 ارتباط
+## 🔁 مسیر من
 
-اگر به **AI، توسعه وب، Open Source، اتوماسیون یا ساخت ابزارهای کاربردی** علاقه‌مند هستید، خوشحال می‌شوم پروژه‌ها را ببینید و همکاری‌های جالب شکل بگیرد.
+**Learn → Build → Test → Improve → Repeat**
 
-<p align="center">
-  <a href="https://github.com/Aghil-Echresh">
-    <img src="https://img.shields.io/badge/GitHub-Aghil--Echresh-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+هر پروژه یک آزمایش تازه است؛ هدف، ساختن چیزهایی است که فقط روی کاغذ قشنگ نباشند، بلکه واقعاً کار کنند. 🚀
 
 <p align="center">
   ⭐ Thanks for visiting my profile!

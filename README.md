@@ -9,6 +9,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aghil--Echresh-181717?style=for-the-badge&logo=github)](https://github.com/Aghil-Echresh)
 [![Website](https://img.shields.io/badge/Website-paiam-238636?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aghil-echresh.github.io/paiam/)
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-7c3aed?style=for-the-badge&logo=github)](https://aghil-echresh.github.io/Aghil-Echresh/dashboard.html)
 [![Profile Views](https://komarev.com/ghpvc/?username=Aghil-Echresh&style=for-the-badge&color=238636)](https://github.com/Aghil-Echresh)
 
 </div>

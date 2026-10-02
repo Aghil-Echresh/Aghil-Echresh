@@ -1,10 +1,10 @@
-name: Deploy Dashboard to GitHub Pages
+name: Deploy Developer Dashboard to GitHub Pages
 
 on:
   push:
     branches: [main]
     paths:
-      - "dashboard.html"
+      - "aghil-developer-dashboard.html"
       - ".github/workflows/dashboard-pages.yml"
   workflow_dispatch:
 
@@ -29,8 +29,10 @@ jobs:
 
       - name: Prepare site
         run: |
+          set -euo pipefail
+          test -f aghil-developer-dashboard.html
           mkdir -p _site
-          cp dashboard.html _site/index.html
+          cp aghil-developer-dashboard.html _site/index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

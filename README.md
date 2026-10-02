@@ -1,11 +1,10 @@
 <!-- AGHIL ECHRESH • PROFILE -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aghil-Echresh/Aghil-Echresh/main/assets/aghil-neon-banner.svg" width="100%" alt="AGHIL ECHRESH animated neon banner"/>
+<img src="https://raw.githubusercontent.com/Aghil-Echresh/Aghil-Echresh/main/assets/aghil-neon-banner.svg" width="1200" alt="AGHIL ECHRESH animated neon banner"/>
 
 <a href="https://github.com/Aghil-Echresh">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%C2%B7+Web+%C2%B7+Automation+%C2%B7+Cloud;Building+real+projects%2C+not+just+ideas+%F0%9F%9A%80;Code+%E2%86%92+Ship+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Animated intro"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%C2%B7+Web+%C2%B7+Automation+%C2%B7+Cloud;Building+real+projects%2C+not+just+ideas+%F0%9F%9A%80;Code+%E2%86%92+Ship+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Animated intro" width="850"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aghil--Echresh-181717?style=for-the-badge&logo=github)](https://github.com/Aghil-Echresh)
 [![Website](https://img.shields.io/badge/Website-paiam-238636?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aghil-echresh.github.io/paiam/)
@@ -39,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,express,postgres,supabase,sqlite,git,github,githubactions,vscode,androidstudio" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,express,postgres,supabase,sqlite,git,github,githubactions,vscode,androidstudio&perline=7" alt="Tech stack" width="560"/>
 
 </div>
 
@@ -60,12 +59,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aghil-Echresh&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aghil-Echresh&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aghil-Echresh&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&card_width=495" alt="GitHub statistics" width="495"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aghil-Echresh&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=495" alt="Top languages" width="495"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Aghil-Echresh&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Aghil-Echresh&theme=tokyonight&hide_border=true" alt="GitHub streak" width="800"/>
 
 </div>
 
@@ -75,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aghil-Echresh/Aghil-Echresh/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/Aghil-Echresh/Aghil-Echresh/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="900"/>
 
 </div>
 

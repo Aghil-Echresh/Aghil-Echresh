@@ -1,88 +1,181 @@
-# 👋 سلام، من عقیل عچرش هستم | Aghil Echresh
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                    AGHIL ECHRESH • PROFILE                 ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
-**AI & Web Developer • Builder • Open Source Enthusiast**
+<div align="center">
 
-من روی ساخت ابزارهای کاربردی با **هوش مصنوعی، وب، اتوماسیون و سرویس‌های ابری** کار می‌کنم.  
-تمرکزم این است که ایده‌ها را از یک نمونه اولیه به یک پروژه قابل استفاده تبدیل کنم.
+<a href="https://github.com/Aghil-Echresh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Aghil+Echresh+%F0%9F%91%8B;AI+%C2%B7+Web+%C2%B7+Automation+%C2%B7+Cloud;I+turn+ideas+into+real%2C+usable+projects+%F0%9F%9A%80" alt="Animated introduction" />
+</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=120&section=header" width="100%" alt="Animated header"/>
+
+### 🧠 AI & Web Developer · Builder · Open Source Enthusiast
+
+**ساختن، تست کردن و تبدیل ایده به محصول واقعی.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aghil--Echresh-181717?style=for-the-badge&logo=github)](https://github.com/Aghil-Echresh)
+[![Website](https://img.shields.io/badge/Website-paiam-238636?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aghil-echresh.github.io/paiam/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aghil-Echresh&style=for-the-badge&color=238636)](https://github.com/Aghil-Echresh)
+
+</div>
 
 ---
 
-## 🚀 درباره من
+## 👨‍💻 درباره من
 
-- 🤖 ساخت ابزارها و پروژه‌های **AI و چت‌بات**
-- 🌐 توسعه **Web Apps** و رابط‌های کاربردی
-- 🧩 **JavaScript / Node.js / Python**
-- 🗄️ **Supabase / PostgreSQL / Storage / Auth**
-- ⚙️ **GitHub Actions / CI/CD / Automation**
-- ☁️ استقرار و اتصال پروژه‌ها به سرویس‌های ابری
-- 📱 تجربه در پروژه‌های وب و موبایل
-- 🧪 علاقه‌مند به تست ایده‌های جدید و تبدیل آن‌ها به محصول واقعی
+من **عقیل عچرش (Aghil Echresh)** هستم؛ توسعه‌دهنده‌ای که روی ساخت پروژه‌های کاربردی در تقاطع **AI، وب، اتوماسیون و سرویس‌های ابری** کار می‌کنم.
+
+> 💡 ایده → کد → تست → انتشار → بهبود
+
+چیزی که برای من مهم است فقط نوشتن کد نیست؛ هدفم ساختن ابزارهایی است که **واقعاً استفاده شوند**.
+
+### ⚡ حوزه‌های کاری
+
+| حوزه | تمرکز |
+|---|---|
+| 🤖 AI | Chatbots · AI Apps · AI APIs |
+| 🌐 Web | Web Apps · APIs · Responsive UI |
+| ⚙️ Automation | GitHub Actions · CI/CD · Workflows |
+| ☁️ Cloud | Supabase · PostgreSQL · Storage · Auth |
+| 📱 Apps | Web & Mobile Projects |
+| 🧪 Experimentation | Prototyping · Testing · Iteration |
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</p>
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css" alt="Languages"/>
+
+### Backend · Database · Cloud
+<img src="https://skillicons.dev/icons?i=express,postgres,supabase,sqlite" alt="Backend and databases"/>
+
+### Tools · DevOps
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,androidstudio" alt="Tools and DevOps"/>
+
+</div>
 
 ---
 
-## ⭐ پروژه‌های شاخص
+## 🚀 پروژه‌های منتخب
 
-### 🤖 [AI Melli](https://github.com/Aghil-Echresh/ai_melli)
-ابزاری مبتنی بر **GitHub Actions** برای تولید متن و تصویر با هوش مصنوعی، همراه با workflowهای قابل اجرا و خروجی ذخیره‌شده در GitHub.
+<table>
+<tr>
+<td width="50%">
 
-### 🧾 [دفتر حساب آنلاین سوپرمارکت کمیل](https://github.com/Aghil-Echresh/apk3)
-پنل فارسی و RTL برای مدیریت مشتریان، واریز و برداشت، مانده حساب و رسید با **Supabase Auth + PostgreSQL + Storage**.
+### 🤖 AI Melli
+**AI + GitHub Actions**
 
-### 💬 [WhatsApp ChatGPT Bot](https://github.com/Aghil-Echresh/whatsapp-chatgpt-bot)
-پروژه اتصال **WhatsApp** به سرویس‌های هوش مصنوعی با تمرکز روی ساخت یک ربات مکالمه کاربردی.
+ابزار آزمایشی برای تولید محتوای متنی و تصویری با workflowهای قابل اجرا.
 
-### 🛒 [Supermarket Komil](https://github.com/Aghil-Echresh/supermarket-komil)
-پروژه وب مرتبط با **سوپرمارکت کمیل** و آزمایش قابلیت‌های Node.js / Express / SQLite.
+**Tech:** `AI` · `GitHub Actions` · `Automation`
+
+[🔗 مشاهده پروژه](https://github.com/Aghil-Echresh/ai_melli)
+
+</td>
+<td width="50%">
+
+### 🧾 دفتر حساب آنلاین
+**Supabase + PostgreSQL**
+
+پنل فارسی RTL برای مدیریت مشتریان، واریز، برداشت، مانده حساب و رسید.
+
+**Tech:** `Supabase` · `PostgreSQL` · `Auth`
+
+[🔗 مشاهده پروژه](https://github.com/Aghil-Echresh/apk3)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 WhatsApp ChatGPT Bot
+**WhatsApp + AI**
+
+پروژه اتصال WhatsApp به سرویس‌های هوش مصنوعی برای ساخت یک ربات مکالمه.
+
+**Tech:** `Node.js` · `AI API` · `WhatsApp`
+
+[🔗 مشاهده پروژه](https://github.com/Aghil-Echresh/whatsapp-chatgpt-bot)
+
+</td>
+<td width="50%">
+
+### 🛒 Supermarket Komil
+**Real-world Web Project**
+
+پروژه وب مرتبط با سوپرمارکت کمیل و تجربه ساخت سرویس‌های کاربردی.
+
+**Tech:** `Node.js` · `Express` · `SQLite`
+
+[🔗 مشاهده پروژه](https://github.com/Aghil-Echresh/supermarket-komil)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 تمرکز فعلی
+## 📊 GitHub Analytics
 
-**AI → Web → Automation → Cloud → Real Projects**
+<div align="center">
 
-من بیشتر از اینکه فقط کد بنویسم، دنبال اینم که یک ایده واقعاً **اجرا، تست و قابل استفاده** بشه.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aghil-Echresh&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aghil-Echresh&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Aghil-Echresh&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+</div>
 
 ---
 
-## 📊 GitHub
+## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aghil-Echresh&show_icons=true&theme=tokyonight&hide_border=true" alt="Aghil's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aghil-Echresh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://raw.githubusercontent.com/Aghil-Echresh/Aghil-Echresh/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## 🎯 مسیر توسعه
+
+<div align="center">
+
+**Learn** → **Build** → **Test** → **Ship** → **Improve** → **Repeat** 🔁
+
+</div>
+
+من به پروژه‌های واقعی علاقه دارم؛ پروژه‌هایی که از یک ایده کوچک شروع می‌شوند و قدم‌به‌قدم به یک ابزار قابل استفاده تبدیل می‌شوند.
 
 ---
 
 ## 🌐 ارتباط
 
-- 🐙 GitHub: [@Aghil-Echresh](https://github.com/Aghil-Echresh)
-- 🌍 Web: [aghil-echresh.github.io/paiam](https://aghil-echresh.github.io/paiam/)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aghil--Echresh-181717?style=for-the-badge&logo=github)](https://github.com/Aghil-Echresh)
+[![Website](https://img.shields.io/badge/Web-paiam-238636?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aghil-echresh.github.io/paiam/)
+
+</div>
 
 ---
 
-## 🔁 مسیر من
+<div align="center">
 
-**Learn → Build → Test → Improve → Repeat**
+### ⭐ اگر پروژه‌ای برات جالب بود، یک Star خوشحالم می‌کند.
 
-هر پروژه یک آزمایش تازه است؛ هدف، ساختن چیزهایی است که فقط روی کاغذ قشنگ نباشند، بلکه واقعاً کار کنند. 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161b22,100:0d1117&height=100&section=footer" width="100%" alt="Animated footer"/>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+<sub>Built with curiosity, code & a little bit of caffeine ☕</sub>
+
+</div>

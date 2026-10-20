@@ -1,104 +1,123 @@
-<!-- AGHIL ECHRESH • PROFILE -->
+<!-- AGHIL ECHRESH | GitHub Profile -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aghil-Echresh/Aghil-Echresh/main/assets/aghil-neon-banner.svg" width="1200" alt="AGHIL ECHRESH animated neon banner"/>
+<img src="https://raw.githubusercontent.com/Aghil-Echresh/Aghil-Echresh/main/assets/aghil-neon-banner.svg" width="100%" alt="Aghil Echresh — AI, Web & Automation" />
 
-<a href="https://github.com/Aghil-Echresh">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%C2%B7+Web+%C2%B7+Automation+%C2%B7+Cloud;Building+real+projects%2C+not+just+ideas+%F0%9F%9A%80;Code+%E2%86%92+Ship+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Animated intro" width="850"/>
+<h1>عقیل عچرش | Aghil Echresh</h1>
+<h3>AI Builder · Web Developer · Automation Enthusiast</h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aghil--Echresh-181717?style=for-the-badge&logo=github)](https://github.com/Aghil-Echresh)
-[![Website](https://img.shields.io/badge/Website-paiam-238636?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aghil-echresh.github.io/paiam/)
-[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-7c3aed?style=for-the-badge&logo=github)](https://aghil-echresh.github.io/Aghil-Echresh/)
-[![Profile Views](https://komarev.com/ghpvc/?username=Aghil-Echresh&style=for-the-badge&color=238636)](https://github.com/Aghil-Echresh)
+<p>
+  <a href="https://github.com/Aghil-Echresh"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://aghil-echresh.github.io/paiam/"><img src="https://img.shields.io/badge/Personal_Website-Visit-0A7B50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website"/></a>
+  <a href="https://www.instagram.com/aghil_echresh83/"><img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Aghil-Echresh&style=for-the-badge&color=2563eb" alt="Profile views"/>
+</p>
+
+<p><em>ایده‌ها را به ابزارهای واقعی، کاربردی و قابل استفاده تبدیل می‌کنم.</em></p>
 
 </div>
 
 ---
 
-## 👨‍💻 درباره من
+## 👋 درباره من | About Me
 
-من **عقیل عچرش (Aghil Echresh)** هستم؛ توسعه‌دهنده‌ای با تمرکز روی **AI، وب، اتوماسیون و سرویس‌های ابری**.
+من **عقیل عچرش (Aghil Echresh)** هستم. روی ساخت پروژه‌های کاربردی در زمینه هوش مصنوعی، توسعه وب، ابزارهای موبایل و اتوماسیون کار می‌کنم. عاشق یادگیری عملی‌ام: ساختن، آزمایش‌کردن، پیدا کردن ایرادها و بهترکردن محصول تا جایی که واقعاً به درد بخورد.
 
-> 💡 **ایده → کد → تست → انتشار → بهبود**
+I build practical projects across AI, web development, mobile tools, and automation. My workflow is simple: learn by building, test honestly, improve continuously, and ship useful things.
 
-هدفم ساخت ابزارهایی است که فقط روی کاغذ قشنگ نباشند؛ **واقعاً کار کنند و استفاده شوند.**
+> **Learn → Build → Test → Ship → Improve** 🔁
 
-### ⚡ حوزه‌ها
+## 🧭 What I Build
 
-- 🤖 **AI:** Chatbots · AI Apps · AI APIs
-- 🌐 **Web:** Web Apps · APIs · Responsive UI
-- ⚙️ **Automation:** GitHub Actions · CI/CD · Workflows
-- ☁️ **Cloud:** Supabase · PostgreSQL · Storage · Auth
-- 📱 **Apps:** Web & Mobile
-- 🧪 **Experimentation:** Prototyping · Testing · Iteration
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🤖 AI & Intelligent Tools
+- AI-powered applications and chatbots
+- API integrations and assistant workflows
+- Experiments with local and hosted AI
 
-## 🛠️ Tech Stack
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Web & Backend
+- Responsive web experiences
+- Node.js, APIs and backend services
+- Data-driven applications
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Automation & Cloud
+- GitHub Actions and CI/CD
+- Deployment workflows
+- Supabase, PostgreSQL and authentication
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Mobile & Practical Apps
+- Android-focused experiments
+- Lightweight utilities and integrations
+- Prototypes shaped by real-world needs
+
+</td>
+</tr>
+</table>
+
+## 🧰 Technology Toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,express,postgres,supabase,sqlite,git,github,githubactions,vscode,androidstudio&perline=7" alt="Tech stack" width="560"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,express,postgres,supabase,sqlite,git,github,githubactions,linux,vscode,androidstudio&perline=5" alt="Technologies and tools"/>
 
 </div>
 
----
+## 🚀 Featured Projects
 
-## 🚀 پروژه‌های منتخب
+| Project | What it explores |
+|---|---|
+| [🤖 AI Melli](https://github.com/Aghil-Echresh/ai_melli) | AI experiments, automation and workflows |
+| [🛒 Supermarket Komil](https://github.com/Aghil-Echresh/supermarket-komil) | Tools and automation for a real-world small business |
+| [📒 Online Account Book](https://github.com/Aghil-Echresh/apk3) | App development and data workflows |
+| [💬 WhatsApp ChatGPT Bot](https://github.com/Aghil-Echresh/whatsapp-chatgpt-bot) | Messaging automation and AI integration |
+| [🎙️ Sara AI Persona](https://github.com/Aghil-Echresh/Sara-AI-Persona) | A personal AI assistant project |
+| [📦 Browse all repositories](https://github.com/Aghil-Echresh?tab=repositories) | More experiments, utilities and ongoing work |
 
-| پروژه | تمرکز | لینک |
-|---|---|---|
-| 🤖 **AI Melli** | AI · GitHub Actions · Automation | [مشاهده](https://github.com/Aghil-Echresh/ai_melli) |
-| 🧾 **دفتر حساب آنلاین** | Supabase · PostgreSQL · Auth | [مشاهده](https://github.com/Aghil-Echresh/apk3) |
-| 💬 **WhatsApp ChatGPT Bot** | Node.js · AI API · WhatsApp | [مشاهده](https://github.com/Aghil-Echresh/whatsapp-chatgpt-bot) |
-| 🛒 **Supermarket Komil** | Node.js · Express · SQLite | [مشاهده](https://github.com/Aghil-Echresh/supermarket-komil) |
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aghil-Echresh&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&card_width=495" alt="GitHub statistics" width="495"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aghil-Echresh&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=495" alt="Top languages" width="495"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Aghil-Echresh&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aghil-Echresh&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=Aghil-Echresh&theme=tokyonight&hide_border=true" alt="GitHub streak" width="800"/>
+<img src="https://streak-stats.demolab.com?user=Aghil-Echresh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="80%"/>
 
 </div>
 
----
-
-## 🐍 Contribution Activity
+## 🐍 Contribution Garden
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aghil-Echresh/Aghil-Echresh/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="900"/>
+<img src="https://raw.githubusercontent.com/Aghil-Echresh/Aghil-Echresh/output/github-contribution-grid-snake.svg" alt="Contribution activity animation" width="100%"/>
 
 </div>
 
----
-
-## 🎯 Build Loop
+## 🤝 Connect
 
 <div align="center">
 
-**LEARN** → **BUILD** → **TEST** → **SHIP** → **IMPROVE** → **REPEAT** 🔁
+<a href="https://github.com/Aghil-Echresh">GitHub</a> ·
+<a href="https://aghil-echresh.github.io/paiam/">Personal Website</a> ·
+<a href="https://www.instagram.com/aghil_echresh83/">Instagram</a>
 
-</div>
+### Build useful things. Keep learning. Make it real. ✨
 
----
-
-## 🌐 ارتباط
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Aghil--Echresh-181717?style=for-the-badge&logo=github)](https://github.com/Aghil-Echresh)
-[![Website](https://img.shields.io/badge/Web-paiam-238636?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aghil-echresh.github.io/paiam/)
-
-### ⭐ Build something useful. Make it real.
-
-<sub>Built with curiosity, code & a little bit of caffeine ☕</sub>
+<sub>Made with curiosity, persistence, and ☕</sub>
 
 </div>

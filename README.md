@@ -76,6 +76,14 @@ I build practical projects across AI, web development, mobile tools, and automat
 
 </div>
 
+## 🧭 مرکز فرماندهی پروژه‌ها | Project Command Center
+
+[![Open Command Center](https://img.shields.io/badge/OPEN-PROJECT_COMMAND_CENTER-0B8FA4?style=for-the-badge&logo=github)](https://aghil-echresh.github.io/MihomoSaz/control-center.html)
+
+پنل فارسی و یکپارچه برای جست‌وجو و دسته‌بندی مخازن عمومی، دسترسی به کد و README، لینک وب‌سایت‌های منتشرشده و مشاهدهٔ آخرین وضعیت CI. مخازن خصوصی فقط از داخل حساب مالک قابل مشاهده‌اند و در پنل عمومی فهرست نمی‌شوند.
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it explores |
